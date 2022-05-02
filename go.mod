@@ -1,4 +1,4 @@
-module certstream-go
+module github.com/fairuse/certstream-go
 
 go 1.18
 
